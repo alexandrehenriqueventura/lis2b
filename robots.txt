@@ -1,0 +1,24 @@
+# Robots.txt para ODS 1 - Erradicação da Pobreza
+# Material Educacional - Escola Estadual Joaquim Diégues
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://alexandrehenriqueventura.github.io/lis2b/sitemap.xml
+
+# Arquivos permitidos
+Allow: /css/
+Allow: /js/
+Allow: /icons/
+Allow: /assets/
+Allow: /manifest.json
+Allow: /sw.js
+
+# Crawl-delay para ser respeitoso
+Crawl-delay: 1
+
+# Informações adicionais
+# Este é um site educacional sobre ODS 1
+# Conteúdo destinado a estudantes do ensino médio
+# Atualizado regularmente com informações sobre desenvolvimento sustentável
